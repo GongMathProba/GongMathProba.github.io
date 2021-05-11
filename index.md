@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Shuyang Gong(巩舒阳)
+- Department of Mathematics, Shandong University
+- Email:gongsyapple@icloud.com
 
-You can use the [editor on GitHub](https://github.com/GongMathProba/GongMathProba.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## About me
+- Currently I'm a senior student majoring in statistics at Department of Mathematics, Shandong University. 
+- At Fall 2021, I will be a first-year Ph.D. at School of Mathematical Sciences, Peking University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Latest news
 
-### Markdown
+## Research interests
+My research interests include
+- Probability Theory
+- Statistical Physics
+- Stochastic Process
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GongMathProba/GongMathProba.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Awards
+- 2019 China National Scholarship
+- 2020 China National Scholarship
+- 2020 President Scholarship, Shandong University(highest honor of students)
+- 2020 Outstanding Students of Shandong Province
+- 2020 Outstanding Graduates, Shandong Province
