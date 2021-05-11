@@ -11,8 +11,11 @@
 ## Research interests
 My research interests include
 - Probability Theory
+- Complex Analysis
 - Statistical Physics
-- Stochastic Process
+- Stochastic Processes
+
+##Publications
 
 ## Awards
 - 2019 China National Scholarship
