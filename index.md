@@ -18,8 +18,8 @@ My research interests include
 ## Publications
 
 ## Awards
-- 2019 China National Scholarship
-- 2020 China National Scholarship
-- 2020 President Scholarship, Shandong University(highest honor of students)
+- 2019 National Scholarship of China
+- 2020 National Scholarship of China
+- 2020 President Scholarship, Shandong University
 - 2020 Outstanding Students of Shandong Province
 - 2020 Outstanding Graduates, Shandong Province
