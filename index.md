@@ -8,7 +8,7 @@
       <p><b>Postal Code:250100</b></p>
     </td>
     <td width="25%">
-      <img src="/flowers.png" width="100%">
+      <img src="/flower.png" width="100%">
     </td>
   </tr>
 </table>
