@@ -28,7 +28,7 @@ My research interests include
 - Stochastic Processes
 
 ## Publications
-https://github.com/GongMathProba/GongMathProba.github.io/blob/main/毕业论文终稿.pdf
+https://github.com/GongMathProba/GongMathProba.github.io/blob/96b1be57d19331c1b587d14fddd53b6b867de1d7/%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E7%BB%88%E7%A8%BF.pdf
 
 ## Awards
 - 2019 National Scholarship of China
