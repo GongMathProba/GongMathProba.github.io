@@ -28,7 +28,7 @@ My research interests include
 - Stochastic Processes
 
 ## Publications
--My bachelor thesis(in Chinese) Stein's method and its applications into statistical physics
+- My bachelor thesis(in Chinese) Stein's method and its applications into statistical physics
 
 ## Awards
 - 2019 National Scholarship of China
