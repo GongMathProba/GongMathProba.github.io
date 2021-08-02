@@ -28,7 +28,7 @@ My research interests include
 - Stochastic Processes
 
 ## Publications
-
+[毕业论文终稿.pdf]
 ## Awards
 - 2019 National Scholarship of China
 - 2020 National Scholarship of China
