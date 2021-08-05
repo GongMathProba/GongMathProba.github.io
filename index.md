@@ -23,7 +23,6 @@
 ## Research interests
 My research interests include
 - Probability Theory
-- Complex Analysis
 - Statistical Physics
 - Stochastic Processes
 
