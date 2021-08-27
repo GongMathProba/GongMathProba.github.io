@@ -18,8 +18,6 @@
 - Currently I'm a senior student majoring in statistics at Department of Mathematics, Shandong University. 
 - At Fall 2021, I will be a first-year Ph.D. at School of Mathematical Sciences, Peking University.
 
-## Latest news
-
 ## Research interests
 My research interests include
 - Probability Theory
