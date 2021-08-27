@@ -35,3 +35,4 @@ My research interests include
 - 2020 President Scholarship, Shandong University
 - 2020 Outstanding Students of Shandong Province
 - 2020 Outstanding Graduates, Shandong Province
+- 2021 Honors Bachelor degree of Shandong University 
