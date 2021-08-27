@@ -27,6 +27,8 @@ My research interests include
 ## Publications
 - My bachelor thesis(in Chinese) Stein's method and its applications into statistical physics
 <a href="https://GongMathProba.github.io/毕业论文终稿.pdf" target="_blank">PDF.</a>
+Presentation 
+<a href="https://GongMathProba.github.io/bachelor thesis presentation.pdf" target="_blank">PDF.</a>
 ## Awards
 - 2019 National Scholarship of China
 - 2020 National Scholarship of China
