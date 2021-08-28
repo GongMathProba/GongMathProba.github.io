@@ -3,7 +3,7 @@
     <td width="100%">
       <h1>Shuyang Gong(巩舒阳 in Chinese)</h1>
       <p><b>Department of Mathematics, Shandong University</b></p>
-      <p><b>Email: gongsyapple@icloud.com</b></p>
+      <p><b>Email: gongshuyang@stu.pku.edu.cn</b></p>
       <p><b>Address: Shanda South Rd No.27, Shandong University, Jinan, Shandong Province, China</b></p>
       <p><b>Postal Code:250100</b></p>
     </td>
