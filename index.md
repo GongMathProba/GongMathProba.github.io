@@ -24,7 +24,7 @@ My research interests include
 - Statistical Physics
 - Stochastic Processes
 
-## Publications
+## Papers
 - My bachelor thesis(in Chinese) Stein's method and its applications into statistical physics
 <a href="https://GongMathProba.github.io/毕业论文终稿.pdf" target="_blank">PDF.</a>
 Presentation 
