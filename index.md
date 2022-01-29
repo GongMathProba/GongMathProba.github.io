@@ -24,7 +24,8 @@ My research interests include
 - Stochastic Processes
 
 ## Organize/co-organize Seminars
-- 2022 Winter SLE Seminar
+- 2022 Winter SLE Seminar. Here is a brief summary
+<a href="https://GongMathProba.github.io/毕业论文终稿.pdf" target="_blank">PDF.</a>
 
 ## Papers
 - My bachelor thesis(in Chinese) Stein's method and its applications into statistical physics
