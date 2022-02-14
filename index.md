@@ -27,6 +27,10 @@ My research interests include
 - 2022 Winter SLE Seminar. Here is a brief summary
 <a href="https://GongMathProba.github.io/SLE Winter 2022.pdf" target="_blank">PDF.</a>
 
+## Notes
+- Partial Differential Equations: Harmonic functions
+<a href="https://GongMathProba.github.io/第二章 位势方程.pdf" target="_blank">PDF.</a>
+
 ## Papers
 - My bachelor thesis(in Chinese) Stein's method and its applications into statistical physics
 <a href="https://GongMathProba.github.io/毕业论文终稿.pdf" target="_blank">PDF.</a>
