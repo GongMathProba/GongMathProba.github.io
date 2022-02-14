@@ -28,8 +28,9 @@ My research interests include
 <a href="https://GongMathProba.github.io/SLE Winter 2022.pdf" target="_blank">PDF.</a>
 
 ## Notes
-- Partial Differential Equations: Harmonic functions
-<a href="https://GongMathProba.github.io/第二章 位势方程.pdf" target="_blank">PDF.</a>
+- Partial Differential Equations: Harmonic functions, notes(in Chinese)
+<a href="https://GongMathProba.github.io/第二章 位势方程.pdf" target="_blank">PDF.</a> and solutions 
+<a href="https://GongMathProba.github.io/第二章习题.pdf" target="_blank">PDF.</a>
 
 ## Papers
 - My bachelor thesis(in Chinese) Stein's method and its applications into statistical physics
