@@ -31,6 +31,7 @@ My research interests include
 - Partial Differential Equations: Harmonic functions, notes(in Chinese)
 <a href="https://GongMathProba.github.io/第二章 位势方程.pdf" target="_blank">PDF.</a> and solutions 
 <a href="https://GongMathProba.github.io/第二章习题.pdf" target="_blank">PDF.</a>
+- Partial Differential Equations: Heat equation, notes(in Chinese)
 <a href="https://GongMathProba.github.io/第三章 热方程.pdf" target="_blank">PDF.</a> and solutions 
 <a href="https://GongMathProba.github.io/第三章习题.pdf" target="_blank">PDF.</a>
 ## Papers
