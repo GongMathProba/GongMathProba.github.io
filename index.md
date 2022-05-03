@@ -23,9 +23,11 @@ My research interests include
 - Statistical Physics
 - Stochastic Processes
 
-## Organize/co-organize Seminars
+## Organize/co-organize/attend Seminars
 - 2022 Winter SLE Seminar. Here is a brief summary
 <a href="https://GongMathProba.github.io/SLE Winter 2022.pdf" target="_blank">PDF.</a>
+- Talk on Brownian interlacement and Scaling limit(A.S. Sznitman's Paper)
+
 
 ## Notes
 - Partial Differential Equations: Harmonic functions, notes(in Chinese)
