@@ -26,8 +26,8 @@ My research interests include
 ## Organize/co-organize/attend Seminars
 - 2022 Winter SLE Seminar. Here is a brief summary
 <a href="https://GongMathProba.github.io/SLE Winter 2022.pdf" target="_blank">PDF.</a>
-- Talk on Brownian interlacement and Scaling limit(A.S. Sznitman's Paper)
-
+- Talk on Brownian interlacement and Scaling limit(A.S. Sznitman's Paper) A summary
+<a href="https://GongMathProba.github.io/Brownian_interlacement.pdf" target="_blank">PDF.</a>
 
 ## Notes
 - Partial Differential Equations: Harmonic functions, notes(in Chinese)
