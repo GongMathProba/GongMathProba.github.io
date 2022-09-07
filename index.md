@@ -30,7 +30,7 @@ My research interests include
 <a href="https://GongMathProba.github.io/Brownian_Interlacement.pdf" target="_blank">PDF.</a>
 
 ## Talks
-- An Introduction to First Passage Percolation (Zhongtai Securities Institute for Financial Studies Oct. 12th, 2022).
+- An Introduction to First Passage Percolation (Zhongtai Securities Institute for Financial Studies Oct. 12th, 2020).
 
 ## Notes
 - Partial Differential Equations: Harmonic functions, notes(in Chinese)
