@@ -30,20 +30,20 @@ My research interests include
 <a href="https://GongMathProba.github.io/Brownian_Interlacement.pdf" target="_blank">PDF.</a>
 
 ## Talks
-- An Introduction to First Passage Percolation (Zhongtai Securities Institute for Financial Studies Oct. 12th, 2022)
+- An Introduction to First Passage Percolation (Zhongtai Securities Institute for Financial Studies Oct. 12th, 2022).
 
 ## Notes
 - Partial Differential Equations: Harmonic functions, notes(in Chinese)
-<a href="https://GongMathProba.github.io/第二章 位势方程.pdf" target="_blank">PDF.</a> and solutions 
+<a href="https://GongMathProba.github.io/第二章 位势方程.pdf" target="_blank">PDF.</a> and solutions. 
 <a href="https://GongMathProba.github.io/第二章习题.pdf" target="_blank">PDF.</a>
 - Partial Differential Equations: Heat equation, notes(in Chinese)
-<a href="https://GongMathProba.github.io/第三章 热方程.pdf" target="_blank">PDF.</a> and solutions 
+<a href="https://GongMathProba.github.io/第三章 热方程.pdf" target="_blank">PDF.</a> and solutions. 
 <a href="https://GongMathProba.github.io/第三章习题.pdf" target="_blank">PDF.</a>
 
 ## Papers
 - My bachelor thesis(in Chinese) Stein's method and its applications into statistical physics
 <a href="https://GongMathProba.github.io/毕业论文终稿.pdf" target="_blank">PDF.</a>
 Presentation 
-<a href="https://GongMathProba.github.io/bachelor thesis presentation.pdf" target="_blank">PDF.</a>
-- The Maximal Overlap of two independent Erd\''os-R\'enyi Graphs(in preparation with J. Ding and H. Du)
+<a href="https://GongMathProba.github.io/bachelor thesis presentation.pdf" target="_blank">PDF.</a>.
+
 
