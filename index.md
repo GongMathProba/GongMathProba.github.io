@@ -29,6 +29,8 @@ My research interests include
 - Talk on Brownian interlacement and Scaling limit(A.S. Sznitman's Paper) A summary
 <a href="https://GongMathProba.github.io/Brownian_Interlacement.pdf" target="_blank">PDF.</a>
 
+## Talks
+- An Introduction to First Passage Percolation (Zhongtai Securities Institute for Financial Studies Oct. 12th, 2022)
 ## Notes
 - Partial Differential Equations: Harmonic functions, notes(in Chinese)
 <a href="https://GongMathProba.github.io/第二章 位势方程.pdf" target="_blank">PDF.</a> and solutions 
@@ -41,4 +43,5 @@ My research interests include
 <a href="https://GongMathProba.github.io/毕业论文终稿.pdf" target="_blank">PDF.</a>
 Presentation 
 <a href="https://GongMathProba.github.io/bachelor thesis presentation.pdf" target="_blank">PDF.</a>
+- The Maximal Overlap of two independent Erd\''os-R\'enyi Graphs
 
