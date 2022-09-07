@@ -43,5 +43,5 @@ My research interests include
 <a href="https://GongMathProba.github.io/毕业论文终稿.pdf" target="_blank">PDF.</a>
 Presentation 
 <a href="https://GongMathProba.github.io/bachelor thesis presentation.pdf" target="_blank">PDF.</a>
-- The Maximal Overlap of two independent Erd\''os-R\'enyi Graphs
+- The Maximal Overlap of two independent Erd\''os-R\'enyi Graphs(in preparation with J. Ding and H. Du)
 
