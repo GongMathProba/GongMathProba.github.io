@@ -30,7 +30,7 @@ My research interests include
 <a href="https://GongMathProba.github.io/Brownian_Interlacement.pdf" target="_blank">PDF.</a>
 
 ## Talks
-- An Introduction to First Passage Percolation (Zhongtai Securities Institute for Financial Studies Oct. 12th, 2020).
+- An Introduction to First Passage Percolation (Zhongtai Securities Institute for Financial Studies, Shandong University. Oct. 12th, 2020).
 
 ## Papers
 - My bachelor thesis(in Chinese) Stein's method and its applications into statistical physics
