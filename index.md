@@ -15,7 +15,7 @@
 
 
 ## About me
-- Currently I'm a first-year Ph.D. at School of Mathematical Sciences, Peking University.
+- Currently I'm a second-year Ph.D. at School of Mathematical Sciences, Peking University.
 
 ## Research interests
 My research interests include
@@ -31,14 +31,6 @@ My research interests include
 
 ## Talks
 - An Introduction to First Passage Percolation (Zhongtai Securities Institute for Financial Studies Oct. 12th, 2020).
-
-## Notes
-- Partial Differential Equations: Harmonic functions, notes(in Chinese)
-<a href="https://GongMathProba.github.io/第二章 位势方程.pdf" target="_blank">PDF.</a> and solutions. 
-<a href="https://GongMathProba.github.io/第二章习题.pdf" target="_blank">PDF.</a>
-- Partial Differential Equations: Heat equation, notes(in Chinese)
-<a href="https://GongMathProba.github.io/第三章 热方程.pdf" target="_blank">PDF.</a> and solutions. 
-<a href="https://GongMathProba.github.io/第三章习题.pdf" target="_blank">PDF.</a>
 
 ## Papers
 - My bachelor thesis(in Chinese) Stein's method and its applications into statistical physics
