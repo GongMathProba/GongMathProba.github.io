@@ -15,13 +15,10 @@
 
 
 ## About me
-- Currently I'm a second-year Ph.D. at School of Mathematical Sciences, Peking University.
+- Currently I'm a second-year Ph.D. candidate at School of Mathematical Sciences, Peking University. I received my bachelor's degree in Statistics from Shandong University in 2021. 
 
 ## Research interests
-My research interests include
-- Probability Theory
-- Statistical Physics
-- Stochastic Processes
+My research focus lies in probability theory and its intersection with statistical physics, computer science ect.
 
 ## Organize/co-organize/attend Seminars
 - 2022 Winter SLE Seminar. Here is a brief summary
@@ -37,6 +34,6 @@ My research interests include
 <a href="https://GongMathProba.github.io/毕业论文终稿.pdf" target="_blank">PDF.</a>
 Presentation 
 <a href="https://GongMathProba.github.io/bachelor thesis presentation.pdf" target="_blank">PDF.</a>.
-- The Maximal Overlap of two independent \ER graphs.(In preparation)(with J.Ding and H.Du)
+- A polynomial-time approximation scheme for the maximal overlap of two independent Erdos-Renyi graphs.(In preparation)(with J.Ding and H.Du)
 
 
