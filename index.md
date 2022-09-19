@@ -18,7 +18,7 @@
 - Currently I'm a second-year Ph.D. candidate at School of Mathematical Sciences, Peking University. I received my bachelor's degree in Statistics from Shandong University in 2021. 
 
 ## Research interests
-My research focus lies in probability theory and its intersection with statistical physics, computer science ect.
+My research focus lies in probability theory and its intersection with statistical physics, computer science, ect.
 
 ## Organize/co-organize/attend Seminars
 - 2022 Winter SLE Seminar. Here is a brief summary
