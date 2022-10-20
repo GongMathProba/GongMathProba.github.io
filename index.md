@@ -34,6 +34,6 @@ My research focus lies in probability theory and its intersection with statistic
 <a href="https://GongMathProba.github.io/毕业论文终稿.pdf" target="_blank">PDF.</a>
 Presentation 
 <a href="https://GongMathProba.github.io/bachelor thesis presentation.pdf" target="_blank">PDF.</a>.
-- A polynomial-time approximation scheme for the maximal overlap of two independent Erdos-Renyi graphs.(with J.Ding and H.Du)https://arxiv.org/abs/2210.07823
+- A polynomial-time approximation scheme for the maximal overlap of two independent Erdos-Renyi graphs.(with J.Ding and H.Du)[Preprint](https://arxiv.org/abs/2210.07823) Submitted
 
 
