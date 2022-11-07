@@ -28,7 +28,7 @@ My research focus lies in probability theory and its intersection with statistic
 
 ## Talks
 - An Introduction to First Passage Percolation (Zhongtai Securities Institute for Financial Studies, Shandong University. Oct. 12th, 2020).
-- A polynomial-time approximation scheme for the maximal overlap of two independent Erdos-Renyi graph(Zhongtai Securities Institute for Financial Studies, Shandong University. Nov. 7th, 2022)[Slides] 
+- A polynomial-time approximation scheme for the maximal overlap of two independent Erdos-Renyi graph(Zhongtai Securities Institute for Financial Studies, Shandong University. Nov. 7th, 2022)[Slides] (https://GongMathProba.github.io/Nov 7, Shandong Univ.pdf)
 
 ## Papers
 - My bachelor thesis(in Chinese) Stein's method and its applications into statistical physics
