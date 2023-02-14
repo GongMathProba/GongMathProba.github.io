@@ -31,10 +31,6 @@ My research focus lies in probability theory and its intersection with statistic
 - A polynomial-time approximation scheme for the maximal overlap of two independent Erdos-Renyi graph(Zhongtai Securities Institute for Financial Studies, Shandong University. Nov. 7th, 2022)[Slides] <a href="GongMathProba.github.io/NOV_SDU.pdf" target="_blank">PDF.</a>
 
 ## Papers
-- My bachelor thesis(in Chinese) Stein's method and its applications into statistical physics
-<a href="https://GongMathProba.github.io/毕业论文终稿.pdf" target="_blank">PDF.</a>
-Presentation 
-<a href="https://GongMathProba.github.io/bachelor thesis presentation.pdf" target="_blank">PDF.</a>.
 - [A polynomial-time approximation scheme for the maximal overlap of two independent Erdos-Renyi graphs.](https://arxiv.org/abs/2210.07823)(with J.Ding and H.Du), submitted
 
 
