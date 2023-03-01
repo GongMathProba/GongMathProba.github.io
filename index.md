@@ -56,6 +56,6 @@ My research focus lies in probability theory and its intersection with statistic
 - A polynomial-time approximation scheme for the maximal overlap of two independent Erdos-Renyi graph(Zhongtai Securities Institute for Financial Studies, Shandong University. Nov. 7th, 2022)
 
 ## Papers
-- [A polynomial-time approximation scheme for the maximal overlap of two independent Erdös-Rényi graphs.](https://arxiv.org/abs/2210.07823)(with J.Ding and H.Du), submitted
+- [A polynomial-time approximation scheme for the maximal overlap of two independent Erdös-Rényi graphs.](https://arxiv.org/abs/2210.07823)(with [J.Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and H.Du), submitted
 - The algorithmic phase transition in random graph alignment problem.(with H.Du and R.Huang), in preparation.
 
