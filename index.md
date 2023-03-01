@@ -1,3 +1,27 @@
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head><head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
+
+
+
 <table border="0">
   <tr>
     <td width="100%">
@@ -25,7 +49,7 @@ My research focus lies in probability theory and its intersection with statistic
 <a href="https://GongMathProba.github.io/SLE Winter 2022.pdf" target="_blank">PDF.</a>
 - Talk on Brownian interlacement and Scaling limit(A.S. Sznitman's Paper) A summary
 <a href="https://GongMathProba.github.io/Brownian_Interlacement.pdf" target="_blank">PDF.</a>
-- Minicourse: An introduction to Schramn-Loewner evolution SLE_\kappa
+- Minicourse: An introduction to Schramn-Loewner evolution $SLE_\kappa$
 
 ## Talks
 - An Introduction to First Passage Percolation (Zhongtai Securities Institute for Financial Studies, Shandong University. Oct. 12th, 2020).
