@@ -32,7 +32,7 @@
       <p><b>Postal Code:100091</b></p>
     </td>
     <td width="25%">
-      <img src="/tc.JPG" width="100%">
+      <img src="/flower.png" width="50%">
     </td>
   </tr>
 </table>
