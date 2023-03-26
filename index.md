@@ -49,7 +49,7 @@ My research focus lies in probability theory and its intersection with statistic
 
 ## Organize/co-organize/attend Seminars
 - 2022 Winter $SLE$ Seminar. Here is a brief [summary]
-(https://GongMathProba.github.io/SLE Winter 2022.pdf)
+(https://GongMathProba.github.io/SLE_Winter_2022.pdf)
 - Talk on Brownian interlacement and Scaling limit [A summary](https://GongMathProba.github.io/Brownian_Interlacement.pdf)
 
 ## Talks
