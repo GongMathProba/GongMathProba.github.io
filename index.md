@@ -48,8 +48,8 @@
 My research focus lies in probability theory and its intersection with statistical physics, computer science, etc.
 
 ## Organize/co-organize/attend Seminars
-- 2022 Winter $SLE$ Seminar. Here is a brief [summary](https://GongMathProba.github.io/SLE Winter 2022.pdf)
-- Talk on Brownian interlacement and Scaling limit [A summary](https://GongMathProba.github.io/Brownian_Interlacement.pdf)
+- 2022 Winter $SLE$ Seminar. Here is a brief [summary](https://GongMathProba.github.io/SLE_Winter_2022.pdf)
+- Talk on Brownian interlacement and Scaling limit. [summary](https://GongMathProba.github.io/Brownian_Interlacement.pdf)
 
 ## Talks
 - An Introduction to First Passage Percolation (Zhongtai Securities Institute for Financial Studies, Shandong University. Oct. 12th, 2020).
