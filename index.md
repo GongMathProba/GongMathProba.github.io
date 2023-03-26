@@ -44,7 +44,7 @@
 ## Curriculum Vitae 
 - CV(Currently incomplete)
 
-## Research interests
+## Research Interests
 My research focus lies in probability theory and its intersection with statistical physics, computer science, etc.
 
 ## Talks and Seminars
