@@ -24,15 +24,15 @@
 
 <table border="0">
   <tr>
-    <td width="100%">
+    <td width="60%">
       <h1>Shuyang Gong(巩舒阳 in Chinese)</h1>
       <p><b>School of Mathematical Sciences, Peking University</b></p>
       <p><b>Email: gongshuyang@stu.pku.edu.cn</b></p>
       <p><b>Address: Yiheyuan Rd No.5, Peking University, Haidian, Beijing, China</b></p>
       <p><b>Postal Code:100091</b></p>
     </td>
-    <td width="25%">
-      <img src="/flower.png" width="50%">
+    <td width="40%">
+      <img src="/flower.JPG" width="50%">
     </td>
   </tr>
 </table>
