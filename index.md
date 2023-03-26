@@ -47,13 +47,11 @@
 ## Research interests
 My research focus lies in probability theory and its intersection with statistical physics, computer science, etc.
 
-## Organize/co-organize/attend Seminars
-- 2022 Winter $SLE$ Seminar. Here is a brief [summary](https://GongMathProba.github.io/SLE_Winter_2022.pdf)
-- Talk on Brownian interlacement and Scaling limit. [summary](https://GongMathProba.github.io/Brownian_Interlacement.pdf)
-
-## Talks
+## Talks and Seminars
 - An Introduction to First Passage Percolation (Zhongtai Securities Institute for Financial Studies, Shandong University. Oct. 12th, 2020).
 - A polynomial-time approximation scheme for the maximal overlap of two independent Erdös-Rényi graph(Zhongtai Securities Institute for Financial Studies, Shandong University. Nov. 7th, 2022)
+- 2022 Winter $SLE$ Seminar. Here is a brief [summary](https://GongMathProba.github.io/SLE_Winter_2022.pdf)
+- Talk on Brownian interlacement and Scaling limit. [summary](https://GongMathProba.github.io/Brownian_Interlacement.pdf)
 
 ## Papers
 - [A polynomial-time approximation scheme for the maximal overlap of two independent Erdös-Rényi graphs.](https://arxiv.org/abs/2210.07823)(with [J.Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and H.Du), submitted
