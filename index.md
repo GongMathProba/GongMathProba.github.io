@@ -39,7 +39,9 @@
 
 
 ## About me
-- Currently I'm a second-year Ph.D. candidate at School of Mathematical Sciences, Peking University. I received my bachelor's degree in Statistics from Shandong University in 2021. 
+- Currently I'm a second-year Ph.D. candidate at School of Mathematical Sciences, Peking University. I received my bachelor's degree in Statistics from Shandong University in 2021.
+## Curriculum Vitae 
+- CV(Currently incomplete)
 
 ## Research interests
 My research focus lies in probability theory and its intersection with statistical physics, computer science, etc.
