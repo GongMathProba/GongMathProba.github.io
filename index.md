@@ -52,7 +52,7 @@ My research focus lies in probability theory and its intersection with statistic
 - A polynomial-time approximation scheme for the maximal overlap of two independent Erdös-Rényi graph(Zhongtai Securities Institute for Financial Studies, Shandong University. Nov. 7th, 2022)[Slide](https://GongMathProba.github.io/NOV_SDU.pdf)
 - 2022 Winter $SLE$ Seminar. Here is a brief [summary](https://GongMathProba.github.io/SLE_Winter_2022.pdf)
 - Talk on Brownian interlacement and Scaling limit. [summary](https://GongMathProba.github.io/Brownian_Interlacement.pdf)
-- On Cluster Expansion and its Applications into Ising model--Spontaneous Magnetization and Exponential Decay of Truncated Two-point Function in Sufficiently Low Temperature Regime.(Apr. 22, 2023, Peking University)
+- On Cluster Expansion and its Applications into Ising Model--Spontaneous Magnetization and Exponential Decay of Truncated Two-point Function in Sufficiently Low Temperature Regime.(Apr. 22, 2023, Peking University)
 
 ## Papers
 - [A polynomial-time approximation scheme for the maximal overlap of two independent Erdös-Rényi graphs.](https://arxiv.org/abs/2210.07823)(with [J.Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and H.Du), submitted
