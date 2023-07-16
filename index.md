@@ -63,4 +63,5 @@ My research focus lies in probability theory and its intersection with statistic
 - Applied Stochastic Processes, Spring 2022
 - Applied Stochastic Processes, Fall 2022
 - Elementary Probability & Measure Theory, Spring 2023
+- Advanced Probability Theory, Fall 2023
 
