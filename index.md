@@ -39,7 +39,7 @@
 
 
 ## About me
-- Currently I'm a second-year Ph.D. candidate at School of Mathematical Sciences, Peking University. I received my bachelor's degree in Statistics from Shandong University in 2021.
+- Currently I'm a second-year Ph.D. candidate at School of Mathematical Sciences, Peking University. I received my bachelor's degree in Statistics(GPA ranked 1st/132) from Shandong University in 2021.
 
 ## Curriculum Vitae 
 - [CV](https://GongMathProba.github.io/CV_Shuyang.pdf), last updated on July 16, 2023
@@ -55,7 +55,7 @@ My research focus lies in probability theory and its intersection with statistic
 - On Cluster Expansion and its Applications into Ising Model--Spontaneous Magnetization and Exponential Decay of Truncated Two-point Function in Sufficiently Low Temperature Regime.(Apr. 22, 2023, Peking University)
 
 ## Papers
-- [A polynomial-time approximation scheme for the maximal overlap of two independent Erdös-Rényi graphs.](https://arxiv.org/abs/2210.07823)(with [J.Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and [H.Du](https://hangdu2000.github.io/MyHomePage/)), submitted
+- [A polynomial-time approximation scheme for the maximal overlap of two independent $Erd\H{o}ös-Rényi$ graphs.](https://arxiv.org/abs/2210.07823)(with [J.Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and [H.Du](https://hangdu2000.github.io/MyHomePage/)), submitted
 - [The algorithmic phase transition of random graph alignment problem.](https://arxiv.org/abs/2307.06590)(with [H.Du](https://hangdu2000.github.io/MyHomePage/) and R.Huang), preprint.
 
 ## Teaching
