@@ -56,7 +56,7 @@ My research focus lies in probability theory and its intersection with statistic
 
 ## Papers
 - [A polynomial-time approximation scheme for the maximal overlap of two independent Erd\H{o}s-Rényi graphs.](https://arxiv.org/abs/2210.07823)(with [J.Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and [H.Du](https://hangdu2000.github.io/MyHomePage/)), submitted
-- [The algorithmic phase transition of random graph alignment problem.](https://arxiv.org/abs/2307.06590)(with [H.Du](https://hangdu2000.github.io/MyHomePage/) and R.Huang), preprint.
+- [The algorithmic phase transition of random graph alignment problem.](https://arxiv.org/abs/2307.06590)(with [H.Du](https://hangdu2000.github.io/MyHomePage/) and R.Huang), submitted
 
 ## Teaching
 - Calculus(C), Fall 2021
