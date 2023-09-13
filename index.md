@@ -39,7 +39,7 @@
 
 
 ## About me
-- Currently I'm a second-year Ph.D. candidate at School of Mathematical Sciences, Peking University. I received my bachelor's degree in Statistics(GPA ranked 1st/132) from Shandong University in 2021.
+- Currently I'm a 3rd-year Ph.D. candidate at School of Mathematical Sciences, Peking University. I received my bachelor's degree in Statistics(GPA ranked 1st/132) from Shandong University in 2021.
 
 ## Curriculum Vitae 
 - [CV](https://GongMathProba.github.io/CV_Shuyang.pdf), last updated on July 16, 2023
@@ -53,6 +53,7 @@ My research focus lies in probability theory and its intersection with statistic
 - 2022 Winter $SLE$ Seminar. Here is a brief [summary](https://GongMathProba.github.io/SLE_Winter_2022.pdf)
 - Talk on Brownian interlacement and Scaling limit. [summary](https://GongMathProba.github.io/Brownian_Interlacement.pdf)
 - On Cluster Expansion and its Applications into Ising Model--Spontaneous Magnetization and Exponential Decay of Truncated Two-point Function in Sufficiently Low Temperature Regime.(Apr. 22, 2023, Peking University)
+- Algorithms and Phase Transitions in Random Graph Alignment Problem.(Sept.11 2023,Peking University)[slide](https://GongMathProba.github.io/巩舒阳.pdf)
 
 ## Papers
 - [A polynomial-time approximation scheme for the maximal overlap of two independent Erd\H{o}s-Rényi graphs.](https://arxiv.org/abs/2210.07823)(with [J.Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and [H.Du](https://hangdu2000.github.io/MyHomePage/)), submitted
