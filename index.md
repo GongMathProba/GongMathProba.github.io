@@ -39,7 +39,7 @@
 
 
 ## About me
-- Currently I'm a 3rd-year Ph.D. student at [ProbabilityGroup@PKU](https://pkuprobability.com)  at School of Mathematical Sciences, Peking University.
+- Currently I'm a 3rd-year Ph.D. student of [ProbabilityGroup@PKU](https://pkuprobability.com)  at School of Mathematical Sciences, Peking University.
 - I received my bachelor's degree in Statistics(GPA ranked 1st/132) from Shandong University in 2021.
 
 ## Curriculum Vitae 
@@ -52,7 +52,6 @@ My research focus lies in probability theory and its intersection with statistic
 - An Introduction to First Passage Percolation (Zhongtai Securities Institute for Financial Studies, Shandong University. Oct. 12th, 2020).
 - A polynomial-time approximation scheme for the maximal overlap of two independent Erdös-Rényi graph(Zhongtai Securities Institute for Financial Studies, Shandong University. Nov. 7th, 2022)[slide](https://GongMathProba.github.io/NOV_SDU.pdf)
 - 2022 Winter $SLE$ Seminar. Here is a brief [summary](https://GongMathProba.github.io/SLE_Winter_2022.pdf)
-- Talk on Brownian interlacement and Scaling limit. [summary](https://GongMathProba.github.io/Brownian_Interlacement.pdf)
 - On Cluster Expansion and its Applications into Ising Model--Spontaneous Magnetization and Exponential Decay of Truncated Two-point Function in Sufficiently Low Temperature Regime.(Apr. 22, 2023, Peking University)
 - Algorithms and Phase Transitions in Random Graph Alignment Problem.(Sept.11 2023, Peking University)[slide](https://GongMathProba.github.io/巩舒阳.pdf)
 
