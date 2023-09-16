@@ -56,9 +56,10 @@ My research focus lies in probability theory and its intersection with statistic
 - Algorithms and Phase Transitions in Random Graph Alignment Problem.(Sept.11 2023, Peking University)[slide](https://GongMathProba.github.io/巩舒阳.pdf)
 
 ## Papers
-- [A polynomial-time approximation scheme for the maximal overlap of two independent Erd\H{o}s-Rényi graphs.](https://arxiv.org/abs/2210.07823)(with [J.Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and [H.Du](https://hangdu2000.github.io/MyHomePage/)), submitted
-- [The algorithmic phase transition of random graph alignment problem.](https://arxiv.org/abs/2307.06590)(with [H.Du](https://hangdu2000.github.io/MyHomePage/) and R.Huang), submitted
 - A polynomial time algorithm for matching Wishart matrices in the low dimensional regime.(with Z. Li), in progress.
+- [The algorithmic phase transition of random graph alignment problem.](https://arxiv.org/abs/2307.06590)(with [H.Du](https://hangdu2000.github.io/MyHomePage/) and R.Huang), submitted
+- [A polynomial-time approximation scheme for the maximal overlap of two independent Erd\H{o}s-Rényi graphs.](https://arxiv.org/abs/2210.07823)(with [J.Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and [H.Du](https://hangdu2000.github.io/MyHomePage/)), submitted
+
 ## Teaching
 - Calculus(C), Fall 2021
 - Applied Stochastic Processes, Spring 2022
