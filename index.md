@@ -43,10 +43,10 @@
 - I received my bachelor's degree in Statistics(GPA ranked 1st/132) from Shandong University in 2021.
 
 ## Curriculum Vitae 
-- [CV](https://GongMathProba.github.io/CV_Shuyang.pdf), last updated on July 16, 2023
+- [CV](https://GongMathProba.github.io/CV_Shuyang_Gong.pdf), last updated on December 3, 2023
 
 ## Research Interests
-My research focus lies in probability theory and its intersection with statistical physics, computer science, etc.
+My research focus is probability theory and its intersection with statistical physics, combinatorics, statistics and computer science.
 
 ## Talks and Seminars
 - An Introduction to First Passage Percolation (Zhongtai Securities Institute for Financial Studies, Shandong University. Oct. 12th, 2020).
