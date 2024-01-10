@@ -61,9 +61,10 @@ My research focus is probability theory and its intersection with statistical ph
 - [A polynomial-time approximation scheme for the maximal overlap of two independent Erd\H{o}s-Rényi graphs.](https://arxiv.org/abs/2210.07823)(with [J.Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and [H.Du](https://hangdu2000.github.io/MyHomePage/)), to appear in _Random Structures and Algorithms_. 
 
 ## Teaching
-- Calculus(C), Fall 2021
-- Applied Stochastic Processes, Spring 2022
-- Applied Stochastic Processes, Fall 2022
-- Elementary Probability & Measure Theory, Spring 2023
-- Advanced Probability Theory, Fall 2023
+- Calculus(C) (with Wenyuan Yang), Fall 2021
+- Applied Stochastic Processes (with Dayue Chen), Spring 2022
+- Applied Stochastic Processes (with Jian Ding), Fall 2022
+- Measure Theory (with Fuxi Zhang), Spring 2023
+- Advanced Probability Theory (with Xinyi Li), Fall 2023
+- Stochastic Processes and Statistical Physics (with Tim Mesikepp), Spring 2024
 
