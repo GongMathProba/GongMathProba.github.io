@@ -56,7 +56,7 @@ My research focus is probability theory and its intersection with statistical ph
 - Algorithms and Phase Transitions in Random Graph Alignment Problem.(Sept.11 2023, Peking University)[slide](https://GongMathProba.github.io/巩舒阳.pdf)
 
 ## Papers
-- The Umeyama algorithm for matching correlated Gaussian geometric models in the low dimensional regime(with J. Ding and Z. Li), _in progress_
+- The Umeyama algorithm for matching correlated Gaussian geometric models in the low dimensional regime(with Z. Li), _in progress_
 - [The algorithmic phase transition of random graph alignment problem.](https://arxiv.org/abs/2307.06590)(with [H.Du](https://hangdu2000.github.io/MyHomePage/) and R.Huang), _submitted_
 - [A polynomial-time approximation scheme for the maximal overlap of two independent Erd\H{o}s-Rényi graphs.](https://arxiv.org/abs/2210.07823)(with [J.Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and [H.Du](https://hangdu2000.github.io/MyHomePage/)), to appear in _Random Structures and Algorithms_. 
 
