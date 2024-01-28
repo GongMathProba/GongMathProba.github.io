@@ -25,7 +25,7 @@
 <table border="0">
   <tr>
     <td width="60%">
-      <h1>Shuyang Gong(巩舒阳 in Chinese)</h1>
+      <h1>Shuyang Gong (巩舒阳 in Chinese)</h1>
       <p><b>School of Mathematical Sciences, Peking University</b></p>
       <p><b>Email: gongshuyang at stu dot pku dot edu dot cn</b></p>
       <p><b>Address: Yiheyuan Rd No.5, Peking University, Haidian, Beijing, China</b></p>
@@ -40,7 +40,7 @@
 
 ## About me
 - Currently I'm a 3rd-year Ph.D. student of [ProbabilityGroup@PKU](https://pkuprobability.com)  at School of Mathematical Sciences, Peking University.
-- I received my bachelor's degree in Statistics(GPA ranked 1st/132) from Shandong University in 2021.
+- I received my bachelor's degree in Statistics (GPA ranked 1st/132) from Shandong University in 2021.
 
 ## Curriculum Vitae 
 - [CV](https://GongMathProba.github.io/CV_Shuyang.pdf), last updated on Jan. 10, 2024.
