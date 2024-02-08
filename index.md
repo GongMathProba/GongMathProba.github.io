@@ -48,6 +48,11 @@
 ## Research Interests
 My research focus is probability theory and its intersection with statistical physics, combinatorics, statistics and computer science.
 
+## Papers
+- The Umeyama algorithm for matching correlated Gaussian geometric models in the low-dimensional regime. (with Z. Li), _in progress_.
+- [The algorithmic phase transition of random graph alignment problem.](https://arxiv.org/abs/2307.06590) (with [H.Du](https://hangdu2000.github.io/MyHomePage/) and R.Huang), _submitted_.
+- [A polynomial-time approximation scheme for the maximal overlap of two independent Erd\H{o}s-Rényi graphs.](https://arxiv.org/abs/2210.07823) (with [J.Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and [H.Du](https://hangdu2000.github.io/MyHomePage/)), to appear in _Random Structures and Algorithms_.
+
 ## Talks and Seminars
 - An Introduction to First Passage Percolation (Zhongtai Securities Institute for Financial Studies, Shandong University. Oct. 12th, 2020).
 - A polynomial-time approximation scheme for the maximal overlap of two independent Erdös-Rényi graph (Zhongtai Securities Institute for Financial Studies, Shandong University. Nov. 7th, 2022)[slide](https://GongMathProba.github.io/NOV_SDU.pdf)
@@ -55,11 +60,6 @@ My research focus is probability theory and its intersection with statistical ph
 - On Cluster Expansion and its Applications into Ising Model--Spontaneous Magnetization and Exponential Decay of Truncated Two-point Function in Sufficiently Low Temperature Regime. (Apr. 22, 2023, Peking University)
 - Algorithms and Phase Transitions in Random Graph Alignment Problem. (Sept.11 2023, Peking University)[slide](https://GongMathProba.github.io/巩舒阳.pdf)
 - Optimizing the overlap of two independent Erdös-Rényi graphs. (Jan.15 2024, Probability Seminar at Sichuan University)
-
-## Papers
-- The Umeyama algorithm for matching correlated Gaussian geometric models in the low-dimensional regime. (with Z. Li), _in progress_.
-- [The algorithmic phase transition of random graph alignment problem.](https://arxiv.org/abs/2307.06590) (with [H.Du](https://hangdu2000.github.io/MyHomePage/) and R.Huang), _submitted_.
-- [A polynomial-time approximation scheme for the maximal overlap of two independent Erd\H{o}s-Rényi graphs.](https://arxiv.org/abs/2210.07823) (with [J.Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and [H.Du](https://hangdu2000.github.io/MyHomePage/)), to appear in _Random Structures and Algorithms_. 
 
 ## Teaching
 - Calculus(C) (with Wenyuan Yang), Fall 2021
