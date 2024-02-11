@@ -25,7 +25,7 @@
 <table border="0">
   <tr>
     <td width="60%">
-      <h1>Shuyang Gong (巩舒阳 in Chinese)</h1>
+      <h1>Shuyang Gong (巩舒阳)</h1>
       <p><b>School of Mathematical Sciences, Peking University</b></p>
       <p><b>Email: gongshuyang at stu dot pku dot edu dot cn</b></p>
       <p><b>Address: Yiheyuan Rd No.5, Peking University, Haidian, Beijing, China</b></p>
