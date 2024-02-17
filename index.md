@@ -39,6 +39,7 @@
 
 
 ## About me
+- Welcome to my homepage!
 - Currently I'm a 3rd-year Ph.D. student of [ProbabilityGroup@PKU](https://pkuprobability.com)  at School of Mathematical Sciences, Peking University.
 - I received my bachelor's degree (with an honored degree) in Statistics (GPA ranked 1st/132) from Shandong University in 2021.
 
@@ -54,7 +55,7 @@ My research focus is probability theory and its intersection with statistical ph
 - [A polynomial-time approximation scheme for the maximal overlap of two independent Erd\H{o}s-Rényi graphs.](https://arxiv.org/abs/2210.07823) (with [J.Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and [H.Du](https://hangdu2000.github.io/MyHomePage/)), to appear in _Random Structures and Algorithms_.
 
 ## Talks and Seminars
-- An Introduction to First Passage Percolation (Zhongtai Securities Institute for Financial Studies, Shandong University. Oct. 12th, 2020).
+- An Introduction to First Passage Percolation. (Zhongtai Securities Institute for Financial Studies, Shandong University. Oct. 12th, 2020).
 - A polynomial-time approximation scheme for the maximal overlap of two independent Erdös-Rényi graphs. (Zhongtai Securities Institute for Financial Studies, Shandong University. Nov. 7th, 2022)[slide](https://GongMathProba.github.io/NOV_SDU.pdf)
 - 2022 Winter $SLE$ Seminar. Here is a brief [summary](https://GongMathProba.github.io/SLE_Winter_2022.pdf).
 - On Cluster Expansion and its Applications into Ising Model--Spontaneous Magnetization and Exponential Decay of Truncated Two-point Function in Sufficiently Low Temperature Regime. (Apr. 22, 2023, Peking University)
