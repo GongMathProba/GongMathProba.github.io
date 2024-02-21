@@ -47,7 +47,7 @@
 - [CV](https://GongMathProba.github.io/CV_Shuyang.pdf), last updated on Jan. 10, 2024.
 
 ## Research Interests
-My research focus is probability theory and its intersection with statistical physics, combinatorics, statistics and theoretical computer science.
+My research focus is probability theory, especially in high-dimensional settings.
 
 ## Papers
 - The Umeyama algorithm for matching correlated Gaussian geometric models in the low-dimensional regime. (with Z. Li), _in progress_.
