@@ -44,7 +44,7 @@
 - I received my bachelor's degree (with an honored degree) in Mathematics (GPA ranked 1st/132) from Shandong University in 2021.
 
 ## Curriculum Vitae 
-- [CV](https://GongMathProba.github.io/CV_Shuyang_Gong.pdf), last updated on Jan. 10, 2024.
+- [CV](https://GongMathProba.github.io/CV_Shuyang_Gong.pdf), last updated on February 27, 2024.
 
 ## Research Interests
 Mathematics of probability theory, especially in high-dimensional settings.
