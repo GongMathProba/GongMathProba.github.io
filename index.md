@@ -64,9 +64,9 @@ Mathematics of probability theory, especially in high-dimensional settings.
 
 ## Teaching
 - Calculus(C) (with Wenyuan Yang), Fall 2021
-- Applied Stochastic Processes (with Dayue Chen), Spring 2022
-- Applied Stochastic Processes (with Jian Ding), Fall 2022
+- Stochastic Processes (with Dayue Chen), Spring 2022
+- Stochastic Processes (with Jian Ding), Fall 2022
 - Measure Theory (with Fuxi Zhang), Spring 2023
 - Advanced Probability Theory (with Xinyi Li), Fall 2023
-- Stochastic Processes and Statistical Physics (with Tim Mesikepp), Spring 2024
+
 
