@@ -63,10 +63,11 @@ Mathematics of probability theory, especially in high-dimensional settings.
 - Optimizing the overlap of two independent Erdös-Rényi graphs. (Jan.15 2024, Probability Seminar at Sichuan University)
 
 ## Teaching
-- Calculus(C) (with Wenyuan Yang), Fall 2021
-- Stochastic Processes (with Dayue Chen), Spring 2022
-- Stochastic Processes (with Jian Ding), Fall 2022
-- Measure Theory (with Fuxi Zhang), Spring 2023
-- Advanced Probability Theory (with Xinyi Li), Fall 2023
+- Calculus(C), Fall 2021
+- Stochastic Processes, Spring 2022
+- Stochastic Processes, Fall 2022
+- Measure Theory, Spring 2023
+- Advanced Probability Theory, Fall 2023
+- Stochastic Processes and Statistical Physics, Spring 2024
 
 
