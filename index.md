@@ -32,7 +32,7 @@
       <p><b>Postal Code:100091</b></p>
     </td>
     <td width="20%">
-      <img src="/Shuyang_photo.jpg" width="60%">
+      <img src="/Shuyang_photo.jpg" width="80%">
     </td>
   </tr>
 </table>
