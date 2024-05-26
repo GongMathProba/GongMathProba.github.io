@@ -39,7 +39,7 @@
 
 
 ## About me
-- Welcome to my homepage!
+- Hello! Welcome to my homepage!
 - Currently I'm a 3rd-year Ph.D. student of [ProbabilityGroup@PKU](https://pkuprobability.com)  at School of Mathematical Sciences, Peking University.
 - I received my bachelor's degree (with an honored degree) in Statistics (GPA ranked 1st/132) from Shandong University in 2021.
 
