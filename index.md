@@ -61,6 +61,12 @@ My research interest is probability theory, and its intersection with statistics
 - On Cluster Expansion and its Applications into Ising Model--Spontaneous Magnetization and Exponential Decay of Truncated Two-point Function in Sufficiently Low Temperature Regime. (Apr. 22, 2023, Peking University)
 - Algorithms and Phase Transitions in Random Graph Alignment Problem. (Sept.11 2023, Peking University)[slide](https://GongMathProba.github.io/巩舒阳.pdf)
 - Optimizing the overlap of two independent Erdös-Rényi graphs. (Jan.15 2024, Probability Seminar at Sichuan University)
+  
+## Selected Awards
+- National Scholarship (2019, Shandong University)
+- National Scholarship (2020, Shandong University)
+- Principal Scholarship (2020, Shandong University)
+- Schlumberger Scholarship (2023, Peking University)
 
 ## Teaching
 - Calculus(C), Fall 2021
