@@ -67,6 +67,7 @@ My research interest is probability theory, and its intersection with statistics
 - National Scholarship (2020, Shandong University)
 - Principal Scholarship (2020, Shandong University)
 - Schlumberger Scholarship (2023, Peking University)
+- Principal Scholarship (2024, Peking University)
 
 ## Teaching
 - Calculus(C), Fall 2021
