@@ -40,7 +40,8 @@
 
 ## About me
 - Hello! Welcome to my homepage!
-- Currently I'm a 3rd-year Ph.D. student of [ProbabilityGroup@PKU](https://pkuprobability.com)  at School of Mathematical Sciences, Peking University.
+- Currently I'm taking part in the CRM-PIMS summer school in probability at Montreal, Canada. Feel free to contact me if you are also there.
+- I'm a 3rd-year Ph.D. student of [ProbabilityGroup@PKU](https://pkuprobability.com)  at School of Mathematical Sciences, Peking University.
 - I received my bachelor's degree (with an honored degree) in Statistics (GPA ranked 1st/132) from Department of Mathematics, Shandong University in 2021.
 
 
