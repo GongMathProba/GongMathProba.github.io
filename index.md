@@ -43,7 +43,7 @@
 - Currently I'm taking part in the CRM-PIMS summer school in probability (from July.1-July.26) at Montreal, Canada. Feel free to contact me if you are also there.
 - I'm a 3rd-year Ph.D. student of [ProbabilityGroup@PKU](https://pkuprobability.com)  at School of Mathematical Sciences, Peking University.
 - I received my bachelor's degree (with an honored degree) in Statistics (GPA ranked 1st/132) from Department of Mathematics, Shandong University in 2021.
-
+- [Google Scholar](https://scholar.google.com/citations?user=eVymvlkAAAAJ&hl=zh-CN&oi=ao)
 
 ## Curriculum Vitae 
 - [CV](https://GongMathProba.github.io/CV.pdf), last updated on April 1st, 2024.
