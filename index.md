@@ -39,7 +39,8 @@
 
 ## Recents
 - Currently I'm taking part in the CRM-PIMS summer school in probability (from July.1-July.26) at Montreal, Canada. Feel free to contact me if you are also there.
-- I will be visiting Fuqua School of Business, Duke University (under the guidance of Jiaming Xu, Sept-Nov, 2024) and Department of statistics and data science, Yale University (under the guidance of Yihong Wu, Nov, 2024-Jan. 2025).
+- I will be visiting Fuqua School of Business, Duke University (under the guidance of Jiaming Xu, Sept-Nov, 2024) and Department of statistics and data science, Yale University (under the guidance of Yihong Wu, Nov. 2024-Jan. 2025).
+- I will be a program associate at program Probability and Statistics of Discrete Structures at SLmath from Jan.21, 2025-Febr.28, 2025.
 ## About me
 - Hello! Welcome to my homepage!
 - I'm a 3rd-year Ph.D. student of [ProbabilityGroup@PKU](https://pkuprobability.com)  at School of Mathematical Sciences, Peking University.
