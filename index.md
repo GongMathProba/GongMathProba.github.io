@@ -54,7 +54,7 @@ My research interest is probability theory, and its intersection with statistics
 ## Papers
 - [The Umeyama algorithm for matching correlated Gaussian geometric models in the low-dimensional regime.](https://arxiv.org/abs/2402.15095) (with Zhangsong Li), _submitted_.
 - [The algorithmic phase transition of random graph alignment problem.](https://arxiv.org/abs/2307.06590) (with [Hang Du](https://hangdu2000.github.io/MyHomePage/) and Rundong Huang), _submitted_.
-- A polynomial-time approximation scheme for the maximal overlap of two independent Erd\H{o}s-Rényi graphs. (with [Jian Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and [Hang Du](https://hangdu2000.github.io/MyHomePage/)), _Random Structures and Algorithms_. [arXiv](https://arxiv.org/abs/2210.07823), [journal](https://onlinelibrary.wiley.com/doi/10.1002/rsa.21212).
+- A polynomial-time approximation scheme for the maximal overlap of two independent Erd&#337;s-Rényi graphs. (with [Jian Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and [Hang Du](https://hangdu2000.github.io/MyHomePage/)), _Random Structures and Algorithms_. [arXiv](https://arxiv.org/abs/2210.07823), [journal](https://onlinelibrary.wiley.com/doi/10.1002/rsa.21212).
 
 ## Talks and Seminars
 - An Introduction to First Passage Percolation. (Zhongtai Securities Institute for Financial Studies, Shandong University. Oct. 12th, 2020), Jinan, China.
