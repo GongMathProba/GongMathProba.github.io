@@ -43,7 +43,7 @@
 - I'm a 3rd-year Ph.D. student of [ProbabilityGroup@PKU](https://pkuprobability.com)  at School of Mathematical Sciences, Peking University.
 - I received my bachelor's degree (with an honored degree) in Statistics (GPA ranked 1st/132) from Department of Mathematics, Shandong University in 2021.
 - [Google Scholar](https://scholar.google.com/citations?user=eVymvlkAAAAJ&hl=zh-CN&oi=ao)
-- My [Erd&#337s number](https://en.wikipedia.org/wiki/Erdős_number) is 3.
+- My [Erd &#337; s number](https://en.wikipedia.org/wiki/Erdős_number) is 3.
 
 ## Curriculum Vitae 
 - [CV](https://GongMathProba.github.io/CV.pdf), last updated on April 1st, 2024.
