@@ -49,7 +49,7 @@
 - [CV](https://GongMathProba.github.io/CV.pdf), last updated on April 1st, 2024.
 
 ## Research Interests
-My research interest is probability theory, and its intersection with statistics, statistical physics and theoretical computer science. Currently, I mainly work on probability theory in high-dimensional settings.
+My research interest is probability theory, and its intersection with statistics, statistical physics and theoretical computer science. Currently, I mainly work on probability theory in high-dimensional settings.  
 
 ## Papers
 - [The Umeyama algorithm for matching correlated Gaussian geometric models in the low-dimensional regime.](https://arxiv.org/abs/2402.15095) (with Zhangsong Li), _submitted_.
